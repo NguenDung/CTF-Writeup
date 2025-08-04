@@ -20,5 +20,4 @@ Kinda i will divide my writeup base on this structure for easier management :D
    - **Overview & Approach**  
    - **Step-by-Step Solution**  
    - **Flag**
-   - 
 ---
